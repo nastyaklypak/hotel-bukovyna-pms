@@ -11,7 +11,7 @@
 | Браузер | запуск демо | — |
 
 ## 3. Розгортання
-1. `git clone https://github.com/YOUR-ACCOUNT/hotel-bukovyna-pms.git`
+1. `git clone https://github.com/nastyaklypak/hotel-bukovyna-pms.git`
 2. `cd hotel-bukovyna-pms`
 3. `code .`
 4. Відкрити `index.html` у браузері (`open index.html` на macOS).
